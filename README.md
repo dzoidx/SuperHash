@@ -4,7 +4,7 @@ Threaded big file hash computation helper. Divides file to the parts and compute
 
 .NET 4.0 needed.
 
-# Tests
+# Tests (SHA1Managed)
 
 SSD
 File size: 5053465272<br/>
